@@ -1,0 +1,5 @@
+#!/Users/jananiselvaraj/Downloads/AI_ML_Projects/AI-Agents/vnev/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
